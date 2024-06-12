@@ -1,0 +1,35 @@
+    • Encoder-decoder : 
+https://github.com/GoogleCloudPlatform/asl-ml-immersion/blob/master/notebooks/text_models/solutions/text_generation.ipynb 
+
+    • BERT : 
+https://github.com/GoogleCloudPlatform/asl-ml-immersion/blob/master/notebooks/text_models/solutions/classify_text_with_bert.ipynb 
+
+    • Image captioning : 
+https://github.com/GoogleCloudPlatform/asl-ml-immersion/blob/master/notebooks/multi_modal/solutions/image_captioning.ipynb 
+
+    • Palm AI API : 更多的 pre-trained models (甚至也可用 pre-trained embedding , chat , text) 和 銜接寫法
+https://github.com/GoogleCloudPlatform/generative-ai/blob/main/language/getting-started/intro_palm_api.ipynb 
+
+    • Prompt 的使用技巧 (詢問的方式或注意事項...)
+https://github.com/GoogleCloudPlatform/generative-ai/blob/main/language/prompts/intro_prompt_design.ipynb 
+        ◦ 拿來擷取圖或文的資訊 
+https://github.com/GoogleCloudPlatform/generative-ai/blob/main/language/prompts/examples/text_extraction.ipynb 
+
+    • 結合 Prompt 與 ipynb 的使用
+        ◦ https://github.com/GoogleCloudPlatform/training-data-analyst/blob/master/self-paced-labs/genai/housing_question_answering.ipynb 
+        ◦ https://github.com/GoogleCloudPlatform/training-data-analyst/blob/master/self-paced-labs/genai/housing_text_summarization.ipynb 
+
+
+    • https://github.com/GoogleCloudPlatform/generative-ai/blob/main/gemini/getting-started/intro_gemini_python.ipynb 
+    • https://github.com/GoogleCloudPlatform/generative-ai/blob/main/gemini/getting-started/intro_gemini_curl.ipynb 
+    • 
+
+
+===
+    • 應用 embedding 
+        ◦ Vertex AI 擷取 W style 描述 : 在 Multimodal 輸入
+“請從 https://www.wstyle.com.tw/Shop/ 網站內容, 描述 W style. 描述時請把篇幅控制在約 1000字以內, 並盡可能以 bullet 條列式呈現.” 
+        ◦ 銜接之前 embedding 的 ipynb 刪減後的 “Copy of text_embedding.ipynb” 
+
+
+
